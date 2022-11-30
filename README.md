@@ -14,7 +14,7 @@ You're done! All simple, easy
 
 ## 🤩 Donation :
 
-Paypal: https://www.paypal.me/JenkScalia
+Paypal: https://www.paypal.me/KoroMurder
 
 Thanks to future donators ! ❤️
 
