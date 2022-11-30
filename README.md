@@ -1,20 +1,20 @@
 # 📃 Paypal Spoofer
 
-## 🤔 What this is?
-It generates proof of paypal payment (example: You've sent 2334.21 EUR to example@gmail.com)
+## 🤔 Qu'est ce que c'est ?
+Il génère une preuve de paiement paypal (exemple : Vous avez envoyé 2334,21 EUR à example@gmail.com)
 ![proof](https://cdn.discordapp.com/attachments/879214893692244028/879281239360684082/unknown.png)
 <br> 
-## 📙 How does it work?
-1. Download the code and open index.html (go straight to this website link already ready )
-2. Fill in the form
+## 📙 Comment l'utilisé ?
+1. Télécharger le code et ouvrir index.html (go straight to this website link already ready )
+2. compléter les cases
 
 ![form](https://cdn.discordapp.com/attachments/788749055605997609/1047579316512358470/image.png)
 
-You're done! All simple, easy
+Touts est simple et facile !
 
 ## 🤩 Donation :
 
 Paypal: https://www.paypal.me/KoroMurder
 
-Thanks to future donators ! ❤️
+Merci aux futurs donateurs ! ❤️
 
